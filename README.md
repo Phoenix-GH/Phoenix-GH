@@ -1,13 +1,12 @@
 
 ## Hi 👋, welcome to Phoenix's Github.
-I'm Phoenix,  a Senior Backend Developer and Software Engineer.
+I'm Phoenix,  a Senior Full-Stack Developer and Software Engineer.
 
 ## 🧐 About Me
 - 🔭 I’m currently working on earth. [phoenix-GH](https://github.com/phoenix-GH) is my github work account.
 - 🌱 I’m planning to learn about Mobile Technologies such as Swift, React Native and so on.
 - 💬 Ping me about Node.js, MongoDB, React.js, and Python.
 - 📙 Please check out my [resume](https://github.com/user-attachments/files/16170355/JollySimResume_1.pdf).
-- 📫 Reach out to me on [Linkedin](https://www.linkedin.com/in/mayank-aggarwal-14301b168/) or Discord (Mayank#9665)
 
 ## 🛠️ Tools & Technologies
 <details>
