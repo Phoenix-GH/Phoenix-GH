@@ -6,7 +6,6 @@ I'm Phoenix,  a Senior Full-Stack Developer and Software Engineer.
 - 🔭 I’m currently working on earth. [phoenix-GH](https://github.com/phoenix-GH) is my github work account.
 - 🌱 I’m planning to learn about Mobile Technologies such as Swift, React Native and so on.
 - 💬 Ping me about Node.js, MongoDB, React.js, and Python.
-- 📙 Please check out my [resume](https://github.com/user-attachments/files/16170355/JollySimResume_1.pdf).
 
 ## 🛠️ Tools & Technologies
 <details>
@@ -39,6 +38,6 @@ I'm Phoenix,  a Senior Full-Stack Developer and Software Engineer.
 </details>
 
 <!---
-simjolly21/simjolly21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Phoenix-GH/Phoenix-GH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
