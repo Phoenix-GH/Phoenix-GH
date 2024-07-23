@@ -21,6 +21,7 @@ I'm Phoenix,  a Senior Full-Stack Developer and Software Engineer.
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="30px"></span>&nbsp;
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px"></span>&nbsp;
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="30px"></span>&nbsp;
+    <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="30px"></span>&nbsp;
 
   ### Tools I use:
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="30px"></span>&nbsp;
@@ -32,7 +33,6 @@ I'm Phoenix,  a Senior Full-Stack Developer and Software Engineer.
 
   ### Things I am learning:
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="30px"></span>&nbsp;
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="30px"></span>&nbsp;
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-plain.svg" width="30px"></span>&nbsp;
 
 </details>
