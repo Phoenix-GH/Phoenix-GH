@@ -1,11 +1,10 @@
 
-## Hi 👋, welcome to Phoenix's Github.
-I'm Phoenix,  a Senior Full-Stack Developer and Software Engineer.
+## Hi 👋, welcome to Fenix's Github.
+I'm Phoenix, a Senior Full-Stack Developer and Software Engineer.
 
 ## 🧐 About Me
-- 🔭 I’m currently working on earth. [phoenix-GH](https://github.com/phoenix-GH) is my github work account.
-- 🌱 I’m planning to learn about Mobile Technologies such as Swift, React Native and so on.
-- 💬 Ping me about Node.js, MongoDB, React.js, and Python.
+- 🔭 I’m currently working on earth. [phoenix-GH](https://github.com/Phoenix-GH) is my github work account.
+- 💬 Ping me about React, Node.js, Angular, Vue.js, AI, Blockchain, and Python.
 
 ## 🛠️ Tools & Technologies
 <details>
