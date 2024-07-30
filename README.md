@@ -5,7 +5,7 @@ I go by the name Fenix, the fearless Senior Full-Stack Developer and Software En
 I am an intrepid Senior Full-Stack Developer and Software Engineer, fearlessly navigating the digital realm with a versatile skill set that spans from front-end finesse to back-end wizardry. With a keen eye for design and a knack for problem-solving, I craft seamless user experiences and robust software solutions that shine brighter than lines of code on a dark screen. Whether scaling mountains of data or untangling complex algorithms, I am the go-to hero for turning tech dreams into reality.
 
 ## 🧐 About Me
-- 🔭 I’m currently working on earth. [phoenix-GH](https://github.com/Phoenix-GH) is my github work account.
+- 🔭 I’m currently working on earth. [Phoenix-GH](https://github.com/Phoenix-GH) is my github work account.
 - 💬 Ping me about React, Node.js, Angular, Vue.js, AI, Blockchain, and Python.
 
 ## 🛠️ Tools & Technologies
