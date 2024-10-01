@@ -4,9 +4,17 @@ I go by the name Fenix, the fearless Senior Full-Stack Developer and Software En
 
 I am an intrepid Senior Full-Stack Developer and Software Engineer, fearlessly navigating the digital realm with a versatile skill set that spans from front-end finesse to back-end wizardry. With a keen eye for design and a knack for problem-solving, I craft seamless user experiences and robust software solutions that shine brighter than lines of code on a dark screen. Whether scaling mountains of data or untangling complex algorithms, I am the go-to hero for turning tech dreams into reality.
 
+🌟 My Expertise
+With a strong foundation in both front-end and back-end technologies, I specialize in crafting robust applications that shine brighter than lines of code on a dark screen. My areas of expertise include:
+
+Front-End Development: Proficient in modern frameworks like React, Angular, and Vue.js, I create dynamic and responsive user interfaces that captivate users and enhance their interaction with technology.
+Back-End Development: Skilled in Node.js and various database technologies, I design and implement scalable server-side solutions that ensure data integrity and performance.
+Emerging Technologies: I am passionate about AI, Blockchain, and Machine Learning, exploring how these cutting-edge technologies can be integrated into applications to solve real-world problems and drive innovation.
+Problem Solving: Whether scaling mountains of data or untangling complex algorithms, I approach challenges with a strategic mindset, leveraging my analytical skills to devise effective solutions.
+
 ## 🧐 About Me
 - 🔭 I’m currently working on earth. [Phoenix-GH](https://github.com/Phoenix-GH) is my github work account.
-- 💬 Ping me about React, Node.js, Angular, Vue.js, AI, Blockchain, and Python.
+- 💬 Feel free to ping me about topics such as React, Node.js, Angular, Vue.js, AI, Blockchain, Machine Learning, LLM, and Python. I love sharing knowledge and collaborating with fellow tech enthusiasts!
 
 ## 🛠️ Tools & Technologies
 <details>
