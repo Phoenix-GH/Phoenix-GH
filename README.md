@@ -7,10 +7,14 @@ I am an intrepid Senior Full-Stack Developer and Software Engineer, fearlessly n
 ## 🌟 My Expertise
 With a strong foundation in both front-end and back-end technologies, I specialize in crafting robust applications that shine brighter than lines of code on a dark screen. My areas of expertise include:
 
-### Front-End Development: Proficient in modern frameworks like React, Angular, and Vue.js, I create dynamic and responsive user interfaces that captivate users and enhance their interaction with technology.
-### Back-End Development: Skilled in Node.js and various database technologies, I design and implement scalable server-side solutions that ensure data integrity and performance.
-### Emerging Technologies: I am passionate about AI, Blockchain, and Machine Learning, exploring how these cutting-edge technologies can be integrated into applications to solve real-world problems and drive innovation.
-### Problem Solving: Whether scaling mountains of data or untangling complex algorithms, I approach challenges with a strategic mindset, leveraging my analytical skills to devise effective solutions.
+### Front-End Development:
+Proficient in modern frameworks like React, Angular, and Vue.js, I create dynamic and responsive user interfaces that captivate users and enhance their interaction with technology.
+### Back-End Development:
+Skilled in Node.js and various database technologies, I design and implement scalable server-side solutions that ensure data integrity and performance.
+### Emerging Technologies:
+I am passionate about AI, Blockchain, and Machine Learning, exploring how these cutting-edge technologies can be integrated into applications to solve real-world problems and drive innovation.
+### Problem Solving:
+Whether scaling mountains of data or untangling complex algorithms, I approach challenges with a strategic mindset, leveraging my analytical skills to devise effective solutions.
 
 ## 🧐 About Me
 - 🔭 I’m currently working on earth. [Phoenix-GH](https://github.com/Phoenix-GH) is my github work account.
