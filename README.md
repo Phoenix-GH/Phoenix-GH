@@ -4,7 +4,7 @@ I go by the name Fenix, the fearless Senior Full-Stack Developer and Software En
 
 I am an intrepid Senior Full-Stack Developer and Software Engineer, fearlessly navigating the digital realm with a versatile skill set that spans from front-end finesse to back-end wizardry. With a keen eye for design and a knack for problem-solving, I craft seamless user experiences and robust software solutions that shine brighter than lines of code on a dark screen. Whether scaling mountains of data or untangling complex algorithms, I am the go-to hero for turning tech dreams into reality.
 
-🌟 My Expertise
+## 🌟 My Expertise
 With a strong foundation in both front-end and back-end technologies, I specialize in crafting robust applications that shine brighter than lines of code on a dark screen. My areas of expertise include:
 
 Front-End Development: Proficient in modern frameworks like React, Angular, and Vue.js, I create dynamic and responsive user interfaces that captivate users and enhance their interaction with technology.
